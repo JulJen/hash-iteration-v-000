@@ -1,4 +1,3 @@
-
 def happy_birthday(birthday_kids)
   birthday_kids = {
     "Timmy" => 9,
